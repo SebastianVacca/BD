@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "655ab86ec186ad33af2e5b7e"
+  },
+  "equipo": "Millonarios",
+  "goles": "13"
+},
+{
+  "_id": {
+    "$oid": "655ab86ec186ad33af2e5b7f"
+  },
+  "equipo": "Cali",
+  "goles": "15"
+},
+{
+  "_id": {
+    "$oid": "655ab86ec186ad33af2e5b80"
+  },
+  "equipo": "America",
+  "goles": "10"
+},
+{
+  "_id": {
+    "$oid": "655ab86ec186ad33af2e5b81"
+  },
+  "equipo": "Santafe",
+  "goles": "3"
+},
+{
+  "_id": {
+    "$oid": "655ab86ec186ad33af2e5b82"
+  },
+  "equipo": "Nacional",
+  "goles": "8"
+}]

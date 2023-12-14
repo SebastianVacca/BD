@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "655ab0afe11f74950b6f533b"
+  },
+  "name": "Millonarios",
+  "numjugadores": "34"
+},
+{
+  "_id": {
+    "$oid": "655ab0afe11f74950b6f533c"
+  },
+  "name": "Nacional",
+  "numjugadores": "29"
+},
+{
+  "_id": {
+    "$oid": "655ab0afe11f74950b6f533d"
+  },
+  "name": "America",
+  "numjugadores": "28"
+},
+{
+  "_id": {
+    "$oid": "655ab0afe11f74950b6f533e"
+  },
+  "name": "Santafe",
+  "numjugadores": "31"
+},
+{
+  "_id": {
+    "$oid": "655ab0afe11f74950b6f533f"
+  },
+  "name": "Cali",
+  "numjugadores": "33"
+}]

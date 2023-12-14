@@ -1,0 +1,16 @@
+[{
+  "_id": {
+    "$oid": "655ad37cc186ad33af2e5b86"
+  },
+  "idarbitro": "001",
+  "nombreArbitro": "José Mendoza",
+  "totalPartidos": "100"
+},
+{
+  "_id": {
+    "$oid": "655ad37cc186ad33af2e5b87"
+  },
+  "idarbitro": "002",
+  "nombreArbitro": "Mario Perlaza",
+  "totalPartidos": "50"
+}]

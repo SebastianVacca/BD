@@ -1,0 +1,35 @@
+[{
+  "_id": {
+    "$oid": "655ab5f0e11f74950b6f5340"
+  },
+  "equipo": "Millonarios",
+  "posicion": "2"
+},
+{
+  "_id": {
+    "$oid": "655ab5f0e11f74950b6f5341"
+  },
+  "equipo": "Cali",
+  "posicion": "1"
+},
+{
+  "_id": {
+    "$oid": "655ab5f0e11f74950b6f5342"
+  },
+  "equipo": "America",
+  "posicion": "3"
+},
+{
+  "_id": {
+    "$oid": "655ab5f0e11f74950b6f5343"
+  },
+  "equipo": "Santafe",
+  "posicion": "5"
+},
+{
+  "_id": {
+    "$oid": "655ab5f0e11f74950b6f5344"
+  },
+  "equipo": "Nacional",
+  "posicion": "4"
+}]

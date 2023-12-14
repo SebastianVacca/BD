@@ -1,0 +1,27 @@
+[{
+  "_id": {
+    "$oid": "655ad257c186ad33af2e5b83"
+  },
+  "equipo1": "Millonarios",
+  "equipo2": "Nacional",
+  "resultado": "2-0",
+  "nota": "ninguna"
+},
+{
+  "_id": {
+    "$oid": "655ad257c186ad33af2e5b84"
+  },
+  "equipo1": "Cali",
+  "equipo2": "America",
+  "resultado": "3-1",
+  "nota": "ninguna"
+},
+{
+  "_id": {
+    "$oid": "655ad257c186ad33af2e5b85"
+  },
+  "equipo1": "",
+  "equipo2": "",
+  "resultado": "0-0",
+  "nota": "eliminado santafe por conductas antideportivas"
+}]
